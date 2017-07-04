@@ -2,3 +2,5 @@
 
 
 trained data: https://drive.google.com/open?id=0B2d0CU2nffyfQWg1VHpMSzNndDA
+
+video: https://drive.google.com/open?id=0B2d0CU2nffyfQzR2QWJOOEZuZDQ
